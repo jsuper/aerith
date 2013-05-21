@@ -1,0 +1,54 @@
+<html>
+<head>
+    <title>Aerith: Getting Started</title>
+</head>
+
+<body>
+
+    <h2>Aerith: Getting Started</h2>
+    
+    <h3>Requirements</h3>
+    
+    <p>To get Aerith running you must first download the source code to Aerith, the SwingX project
+    from Swing Labs, and JOGL. You also need to be running a recent build of Mustang. You will
+    also need to compile using NetBeans.
+    Because Aerith is graphics intensive and uses cutting edge technology you need to
+    run it on a computer with a 3d graphics accelerator and Open GL drivers installed.</p>
+    
+    <p>If you have any problems compiling or running Aerith please post a 
+    question to the <a href="https://aerith.dev.java.net/servlets/ProjectMailingListList"><b>users</b> mailing list.</a></p>
+    
+    <h3>Compliation and Installation</h3>
+    
+    <ol>
+    
+    <li>Download and install the most recent Mustang beta (Java SE 6.0) from the <a href="https://mustang.dev.java.net/">Mustang project</a>.</li>
+    
+    <li>Download JOGL (Java Open GL bindings) from <a href="https://jogl.dev.java.net/">the JOGL homepage</a>. Be sure you get both the
+    jogl.jar file and the native libraries for your platform. You can get precompiled binaries from 
+    <a href="https://jogl.dev.java.net/servlets/ProjectDocumentList?folderID=5476&expandFolder=5476&folderID=0">the download page</a>.
+    </li>
+    
+    <li>Install JOGL by unjarring the <code>jogl-natives<i>[your platform]</i>.jar</code> file. It should create several native libraries. Put the native
+    libs in your library path and the jogl.jar in your classpath.
+    
+    <ul>
+        <li>Mac OS X:	Put the jogl.jar and the *.jnilib files in the <code>/Library/Java/Extensions</code> directory</li>
+        <li>Windows [need help on this one]</li>
+        <li>Unix [need help on this one]</li>
+    </ul>
+
+    <li>Check out the code for SwingX from <a href="http://swingx.dev.java.net/">swingx.dev.java.net</a>. You will need CVS tools installed. (Built into NetBeans)</li>
+    
+    <li>Check out the code for Aerith. You will need Subversion tools installed. (Built into NetBeans 5.5)</li>
+    
+    <li>Open the Aerith project in NetBeans and resolve the broken references. You will need to tell the Aerith project
+    where you have downloaded the SwingX project, where the JOGL jar is, and where your lib directory is.</li>
+    
+    <li>Compile and run Aerith. If it you have problems please post it to 
+    <a href="https://aerith.dev.java.net/servlets/ProjectMailingListList">the mailing list</a>.
+    
+    </ol>
+    
+</body>
+</html>

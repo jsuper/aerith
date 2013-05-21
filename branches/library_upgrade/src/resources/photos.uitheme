@@ -1,0 +1,254 @@
+################################################################################
+# Name:    Black Ship
+# Author:  Romain Guy <romain.guy@sun.com>
+# Date:    1/22/2006
+################################################################################
+
+################################################################################
+# COMMON PROPERTIES
+################################################################################
+
+Common.shadowOpacity=0.5
+Common.shadowColor=#000000
+Common.shadowDirection=60
+
+Common.lightColor=#4B5461
+Common.darkColor=#202737
+
+################################################################################
+# LOGIN OVERLAY
+################################################################################
+
+LoginOverlay.hintColor=#FFFFFF
+LoginOverlay.hintFont=Default-BOLD-24
+
+LoginOverlay.inputFont=Default-BOLD-14
+LoginOverlay.inputColor=70, 70, 70
+LoginOverlay.inputBorderColor=220, 220, 220
+LoginOverlay.inputTextColor=255, 255, 255
+LoginOverlay.inputSelectionColor=255, 255, 255
+LoginOverlay.inputSelectedTextColor=0, 0, 0
+
+################################################################################
+# INTRODUCTION
+################################################################################
+
+IntroductionPanel.backgroundGradient={ContentPanel.backgroundGradient}
+IntroductionPanel.logo=/resources/photos/aerith-logo.png
+
+################################################################################
+# NAVIGATION HEADER
+################################################################################
+
+NavigationHeader.backgroundGradient=/resources/photos/header-gradient.png
+
+NavigationHeader.haloPicture=/resources/photos/header-halo.png
+
+NavigationHeader.title=/resources/photos/header-title.png
+NavigationHeader.titleAlpha=1.0
+
+NavigationHeader.lightColor={Common.lightColor}
+NavigationHeader.shadowColor={Common.darkColor}
+
+NavigationHeader.preferredHeight=32
+
+NavigationHeader.pathFont=Arial-PLAIN-18
+NavigationHeader.pathColor=#FFFFFF
+NavigationHeader.pathSeparatorLeft=/resources/photos/header-slash-left.png
+NavigationHeader.pathSeparatorRight=/resources/photos/header-slash-right.png
+
+NavigationHeader.pathShadowOpacity=0.7
+NavigationHeader.pathShadowColor={Common.shadowColor}
+NavigationHeader.pathShadowDirection={Common.shadowDirection}
+NavigationHeader.pathShadowDistance=1
+
+################################################################################
+# LOBBY PANEL
+################################################################################
+
+LobbyPanel.categoryFont=Arial Black-PLAIN-20
+LobbyPanel.categorySmallFont=Arial-BOLD-14
+LobbyPanel.categoryColor=210, 210, 210
+LobbyPanel.categoryHighlightColor=255, 255, 255
+LobbyPanel.categorySmallOpacity=0.8
+
+LobbyPanel.shadowOpacity={Common.shadowOpacity}
+LobbyPanel.shadowColor={Common.shadowColor}
+LobbyPanel.shadowDirection={Common.shadowDirection}
+LobbyPanel.shadowDistance=3
+
+################################################################################
+# TRIP REPORT PANEL
+################################################################################
+
+TripReportPanel.shadowOpacity={Common.shadowOpacity}
+TripReportPanel.shadowColor={Common.shadowColor}
+TripReportPanel.shadowDirection={Common.shadowDirection}
+TripReportPanel.shadowDistance=3
+
+TripReportPanel.websiteBackground=0, 0, 0
+
+################################################################################
+# BACKGROUND TITLE
+################################################################################
+
+BackgroundTitle.titleFont=Arial Black-PLAIN-36
+BackgroundTitle.titleColor=#FFFFFF
+BackgroundTitle.titleOpacity=0.8
+
+BackgroundTitle.shadowOpacity={Common.shadowOpacity}
+BackgroundTitle.shadowColor={Common.shadowColor}
+BackgroundTitle.shadowDirection={Common.shadowDirection}
+BackgroundTitle.shadowDistance=2
+
+BackgroundTitle.preferredHeight=90
+
+################################################################################
+# CONTENT PANEL
+################################################################################
+
+ContentPanel.backgroundGradient=0,0 | 0,584 | 0.22,#202737 | 0.9,#8590A5
+
+ContentPanel.light=/resources/photos/content-light.png
+ContentPanel.lightOpacity=0.5
+
+################################################################################
+# ACTION BUTTON
+################################################################################
+
+ActionButton.shadowDistance=1
+
+ActionButton.buttonForeground={AlbumSelector.listColor}
+ActionButton.buttonFont=Arial-BOLD-22
+ActionButton.mainButton=/resources/photos/button-main.png
+ActionButton.mainButtonPressed=/resources/photos/button-main-pressed.png
+ActionButton.normalButton=/resources/photos/button-normal.png
+ActionButton.normalButtonPressed=/resources/photos/button-normal-pressed.png
+ActionButton.sourceInsets=6, 7, 6, 8
+ActionButton.buttonDimension=116, 35
+ActionButton.buttonHighlight=/resources/photos/header-halo.png
+
+################################################################################
+# ALBUM SELECTOR
+################################################################################
+
+AlbumSelector.listColor=#FFFFFF
+AlbumSelector.listOpacity=0.05
+AlbumSelector.listBorderOpacity=0.4
+
+AlbumSelector.selectionColor={AlbumSelector.listColor}
+AlbumSelector.selectionOpacity=0.2
+AlbumSelector.selectionBorderOpacity=0.8
+
+AlbumSelector.listItemColor={AlbumSelector.listColor}
+AlbumSelector.listUnselectedItemOpacity=0.85
+AlbumSelector.listItemFont=Arial-BOLD-16
+AlbumSelector.listSelectedItemFont=Arial-BOLD-18
+
+AlbumSelector.detailsColor={AlbumSelector.listItemColor}
+AlbumSelector.detailsBigFont=Arial Black-PLAIN-30
+AlbumSelector.detailsSmallFont=Arial-BOLD-14
+
+AlbumSelector.shadowDistance=1
+
+AlbumSelector.starOn=/resources/photos/star-on.png
+AlbumSelector.starOff=/resources/photos/star-off.png
+
+AlbumSelector.buttonForeground={AlbumSelector.listColor}
+AlbumSelector.buttonFont=Arial-BOLD-22
+AlbumSelector.mainButton=/resources/photos/button-main.png
+AlbumSelector.mainButtonPressed=/resources/photos/button-main-pressed.png
+AlbumSelector.normalButton=/resources/photos/button-normal.png
+AlbumSelector.normalButtonPressed=/resources/photos/button-normal-pressed.png
+AlbumSelector.sourceInsets=6, 7, 6, 8
+AlbumSelector.buttonDimension=116, 35
+AlbumSelector.buttonHighlight=/resources/photos/header-halo.png
+
+AlbumSelector.screenshotColor={AlbumSelector.listColor}
+AlbumSelector.screenshotDimension=220, 167
+AlbumSelector.screenshotOpacity=0.7
+AlbumSelector.screenshotTextColor=0, 0, 0, 127
+AlbumSelector.screenshotFont=Arial-BOLD-16
+
+################################################################################
+# ALBUM SELECTOR 3D
+################################################################################
+
+AlbumSelector3D.textColor=#FFFFFF
+AlbumSelector3D.textFont=Arial-BOLD-26
+
+AlbumSelector3D.shadowOpacity={Common.shadowOpacity}
+AlbumSelector3D.shadowColor={Common.shadowColor}
+AlbumSelector3D.shadowDirection={Common.shadowDirection}
+AlbumSelector3D.shadowDistance=1
+
+################################################################################
+# FOOTER
+################################################################################
+
+Footer.preferredHeight=17
+
+Footer.lightColor={Common.lightColor}
+Footer.shadowColor={Common.darkColor}
+
+Footer.inactiveLightColor={TitlePanel.inactiveLightColor}
+Footer.inactiveShadowColor={TitlePanel.inactiveShadowColor}
+
+Footer.backgroundGradient=0,0 | 0,15 | #666F7F | #202737
+Footer.inactiveBackgroundGradient=0,0 | 0,15 | #727272 | #383838
+
+################################################################################
+# FRAME BORDER
+################################################################################
+
+FrameBorder.lightColor={Common.lightColor}
+FrameBorder.mediumColor=#3A424F
+FrameBorder.shadowColor=#343A4D
+
+FrameBorder.inactiveLightColor=#565656
+FrameBorder.inactiveMediumColor=#444444
+FrameBorder.inactiveShadowColor=#404040
+
+################################################################################
+# TITLE PANEL
+################################################################################
+
+TitlePanel.preferredHeight=20
+
+TitlePanel.lightColor={Common.lightColor}
+TitlePanel.shadowColor={Common.darkColor}
+
+TitlePanel.inactiveLightColor=#565656
+TitlePanel.inactiveShadowColor=#2B2B2B
+
+TitlePanel.grip=/resources/photos/title-grip.png
+TitlePanel.backgroundGradient=/resources/photos/title-background.png
+
+TitlePanel.inactiveGrip=/resources/photos/title-grip-inactive.png
+TitlePanel.inactiveBackgroundGradient=/resources/photos/title-background-inactive.png
+
+TitlePanel.close=/resources/photos/title-close.png
+TitlePanel.closeInactive=/resources/photos/title-close-inactive.png
+TitlePanel.closeOver=/resources/photos/title-close-over.png
+TitlePanel.closePressed=/resources/photos/title-close-pressed.png
+
+TitlePanel.minimize=/resources/photos/title-minimize.png
+TitlePanel.minimizeInactive=/resources/photos/title-minimize-inactive.png
+TitlePanel.minimizeOver=/resources/photos/title-minimize-over.png
+TitlePanel.minimizePressed=/resources/photos/title-minimize-pressed.png
+
+################################################################################
+# WAIT OVERLAY
+################################################################################
+
+#WaitOverlay.javaCup=/resources/photos/java-cup.png
+#WaitOverlay.javaCupGlow=/resources/photos/java-cup-glow.png
+WaitOverlay.javaCup=/resources/photos/aerith-loading.png
+WaitOverlay.javaCupGlow=/resources/photos/aerith-loading.png
+WaitOverlay.waitCircle=/resources/photos/wait-circle.png
+
+WaitOverlay.opacity=0.9
+WaitOverlay.color=#000000
+
+WaitOverlay.messageFont=Default-BOLD-24
+WaitOverlay.messageColor=#FFFFFF

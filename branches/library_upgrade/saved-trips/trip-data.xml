@@ -1,0 +1,6405 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0-internal" class="java.beans.XMLDecoder"> 
+ <object class="com.sun.javaone.aerith.model.Trip"> 
+  <void property="name"> 
+   <string>Road Trip 2006</string> 
+  </void> 
+  <void property="path"> 
+   <object class="java.awt.geom.GeneralPath"> 
+    <void property="windingRule"> 
+     <int>1</int> 
+    </void> 
+    <void method="moveTo"> 
+     <float>40.947266</float> 
+     <float>98.94922</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>40.956055</float> 
+     <float>98.96387</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>40.95508</float> 
+     <float>98.98584</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>40.96826</float> 
+     <float>99.0376</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>40.95508</float> 
+     <float>99.05664</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>40.960938</float> 
+     <float>99.08887</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>40.96338</float> 
+     <float>99.095215</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>40.98877</float> 
+     <float>99.1167</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.009766</float> 
+     <float>99.11963</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.07617</float> 
+     <float>99.19873</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.11621</float> 
+     <float>99.211914</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.15674</float> 
+     <float>99.2417</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.180176</float> 
+     <float>99.26904</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.314453</float> 
+     <float>99.31641</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.334473</float> 
+     <float>99.32178</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.34912</float> 
+     <float>99.33838</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.358887</float> 
+     <float>99.32959</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.35742</float> 
+     <float>99.3208</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.33252</float> 
+     <float>99.28906</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.32129</float> 
+     <float>99.24121</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.308594</float> 
+     <float>99.22266</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.30371</float> 
+     <float>99.20459</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.28662</float> 
+     <float>99.18164</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.282227</float> 
+     <float>99.17285</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.29785</float> 
+     <float>99.15967</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.302734</float> 
+     <float>99.146484</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.32617</float> 
+     <float>99.126465</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.33203</float> 
+     <float>99.12256</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.336914</float> 
+     <float>99.11182</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.327637</float> 
+     <float>99.0708</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.311035</float> 
+     <float>99.052246</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.299316</float> 
+     <float>99.01611</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.42871</float> 
+     <float>99.01367</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.47168</float> 
+     <float>98.99658</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.481445</float> 
+     <float>98.99951</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.504395</float> 
+     <float>98.99121</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.507324</float> 
+     <float>98.984375</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.555664</float> 
+     <float>98.978516</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.60547</float> 
+     <float>98.97949</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.645508</float> 
+     <float>98.958984</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.71582</float> 
+     <float>98.95703</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.74707</float> 
+     <float>98.93652</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.776367</float> 
+     <float>98.94531</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.820312</float> 
+     <float>98.93945</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.82129</float> 
+     <float>98.92871</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.956055</float> 
+     <float>98.92871</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.051758</float> 
+     <float>98.93555</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.06543</float> 
+     <float>98.9541</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.11621</float> 
+     <float>98.94629</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.148438</float> 
+     <float>98.93555</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.160156</float> 
+     <float>98.921875</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.176758</float> 
+     <float>98.921875</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.185547</float> 
+     <float>98.91992</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.226562</float> 
+     <float>98.88574</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.249023</float> 
+     <float>98.88086</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.286133</float> 
+     <float>98.887695</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.305664</float> 
+     <float>98.88867</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.301758</float> 
+     <float>98.86426</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.317383</float> 
+     <float>98.84473</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.331055</float> 
+     <float>98.85254</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.356445</float> 
+     <float>98.8584</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.376953</float> 
+     <float>98.87988</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.390625</float> 
+     <float>98.884766</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.39746</float> 
+     <float>98.890625</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.44629</float> 
+     <float>98.91406</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.451904</float> 
+     <float>98.91406</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.4541</float> 
+     <float>98.91345</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.454468</float> 
+     <float>98.911865</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.45276</float> 
+     <float>98.91089</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.44983</float> 
+     <float>98.90967</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.448242</float> 
+     <float>98.908936</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.45117</float> 
+     <float>98.90869</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.453125</float> 
+     <float>98.90869</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.454468</float> 
+     <float>98.908936</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.456177</float> 
+     <float>98.908936</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.456177</float> 
+     <float>98.90979</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.457764</float> 
+     <float>98.90918</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.457886</float> 
+     <float>98.90784</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.45935</float> 
+     <float>98.90784</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.459473</float> 
+     <float>98.90881</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.46057</float> 
+     <float>98.908936</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.461426</float> 
+     <float>98.907715</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.462524</float> 
+     <float>98.90759</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.46411</float> 
+     <float>98.90747</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.465088</float> 
+     <float>98.90735</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.465088</float> 
+     <float>98.90515</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.467896</float> 
+     <float>98.90491</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.46924</float> 
+     <float>98.90564</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.470703</float> 
+     <float>98.90674</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.46997</float> 
+     <float>98.90857</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.47119</float> 
+     <float>98.90967</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.47278</float> 
+     <float>98.91052</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.472656</float> 
+     <float>98.91174</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.4729</float> 
+     <float>98.913574</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.47412</float> 
+     <float>98.914185</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.474854</float> 
+     <float>98.91345</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.47583</float> 
+     <float>98.91138</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.47754</float> 
+     <float>98.91016</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.507812</float> 
+     <float>98.890625</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.512695</float> 
+     <float>98.89551</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.518555</float> 
+     <float>98.893555</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.53125</float> 
+     <float>98.90039</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.551758</float> 
+     <float>98.90723</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.572266</float> 
+     <float>98.91113</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.58008</float> 
+     <float>98.913086</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.60254</float> 
+     <float>98.90527</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.61133</float> 
+     <float>98.9082</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.621094</float> 
+     <float>98.91699</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.63672</float> 
+     <float>98.90723</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.655273</float> 
+     <float>98.9043</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.668945</float> 
+     <float>98.90332</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.679688</float> 
+     <float>98.90137</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.710938</float> 
+     <float>98.91211</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.725586</float> 
+     <float>98.9082</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.734375</float> 
+     <float>98.91699</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.754883</float> 
+     <float>98.91406</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.754883</float> 
+     <float>98.93359</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.765625</float> 
+     <float>98.94922</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.789062</float> 
+     <float>98.96582</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.8125</float> 
+     <float>98.9707</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.831055</float> 
+     <float>98.978516</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.83789</float> 
+     <float>98.97754</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.83789</float> 
+     <float>98.990234</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.85547</float> 
+     <float>99.00488</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.870117</float> 
+     <float>98.993164</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.90332</float> 
+     <float>99.00195</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.913086</float> 
+     <float>98.99707</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.92578</float> 
+     <float>98.99707</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.879883</float> 
+     <float>99.00293</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.874023</float> 
+     <float>99.00586</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.873047</float> 
+     <float>99.018555</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.875977</float> 
+     <float>99.02832</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.87207</float> 
+     <float>99.05176</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.882812</float> 
+     <float>99.07129</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.890625</float> 
+     <float>99.07129</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.887695</float> 
+     <float>99.08984</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.890625</float> 
+     <float>99.109375</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.88965</float> 
+     <float>99.12109</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.893555</float> 
+     <float>99.12598</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.88379</float> 
+     <float>99.13965</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.927734</float> 
+     <float>99.168945</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.936523</float> 
+     <float>99.17383</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.92578</float> 
+     <float>99.18848</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.92578</float> 
+     <float>99.21582</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.911133</float> 
+     <float>99.24609</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.933594</float> 
+     <float>99.271484</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.929688</float> 
+     <float>99.30469</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.929688</float> 
+     <float>99.31543</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.921875</float> 
+     <float>99.32324</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.908203</float> 
+     <float>99.359375</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.916016</float> 
+     <float>99.384766</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.87793</float> 
+     <float>99.40918</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.854492</float> 
+     <float>99.53027</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.814453</float> 
+     <float>99.62207</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.813477</float> 
+     <float>99.631836</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.82129</float> 
+     <float>99.84863</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.802734</float> 
+     <float>99.87305</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.990234</float> 
+     <float>100.083984</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.01172</float> 
+     <float>100.09668</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.089844</float> 
+     <float>100.237305</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.32422</float> 
+     <float>100.23828</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.348633</float> 
+     <float>100.2168</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.36328</float> 
+     <float>100.17676</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.384766</float> 
+     <float>100.17578</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.413086</float> 
+     <float>100.18555</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.416992</float> 
+     <float>100.168945</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.430664</float> 
+     <float>100.16113</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.45703</float> 
+     <float>100.12695</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.496094</float> 
+     <float>100.0957</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.53711</float> 
+     <float>100.06836</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.530273</float> 
+     <float>100.03613</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.538086</float> 
+     <float>100.03711</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.539062</float> 
+     <float>100.02734</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.5459</float> 
+     <float>100.018555</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.554688</float> 
+     <float>100.00879</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.561523</float> 
+     <float>99.993164</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.53125</float> 
+     <float>99.9834</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.520508</float> 
+     <float>99.990234</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.512695</float> 
+     <float>99.98242</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.515625</float> 
+     <float>99.958984</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.49707</float> 
+     <float>99.95215</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.493164</float> 
+     <float>99.93945</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.4834</float> 
+     <float>99.93848</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.478516</float> 
+     <float>99.921875</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.466797</float> 
+     <float>99.91504</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.46875</float> 
+     <float>99.9082</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.44922</float> 
+     <float>99.8916</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.42871</float> 
+     <float>99.88965</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.416016</float> 
+     <float>99.89258</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.407227</float> 
+     <float>99.88965</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.40039</float> 
+     <float>99.88867</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.399414</float> 
+     <float>99.89258</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.387695</float> 
+     <float>99.8916</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.38086</float> 
+     <float>99.88965</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.382812</float> 
+     <float>99.899414</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.374023</float> 
+     <float>99.90723</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.371094</float> 
+     <float>99.913086</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.364258</float> 
+     <float>99.91406</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.364258</float> 
+     <float>99.92285</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.365234</float> 
+     <float>99.94238</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.36621</float> 
+     <float>99.95996</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.365234</float> 
+     <float>99.975586</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.35254</float> 
+     <float>99.981445</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.335938</float> 
+     <float>99.98828</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.33008</float> 
+     <float>99.98926</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.32129</float> 
+     <float>99.98535</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.311523</float> 
+     <float>99.98926</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.305664</float> 
+     <float>99.99707</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.301758</float> 
+     <float>100.00781</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.289062</float> 
+     <float>100.01074</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.289062</float> 
+     <float>100.018555</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.28711</float> 
+     <float>100.02539</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.28125</float> 
+     <float>100.02734</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.28711</float> 
+     <float>100.04004</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.28711</float> 
+     <float>100.06055</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.285156</float> 
+     <float>100.07715</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.291016</float> 
+     <float>100.09277</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.28711</float> 
+     <float>100.12891</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.30664</float> 
+     <float>100.15039</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.307617</float> 
+     <float>100.16211</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.293945</float> 
+     <float>100.22949</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.08789</float> 
+     <float>100.237305</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.1416</float> 
+     <float>100.33594</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.143555</float> 
+     <float>100.393555</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.189453</float> 
+     <float>100.67285</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.200684</float> 
+     <float>100.737305</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.353027</float> 
+     <float>100.73584</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.40381</float> 
+     <float>100.75195</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.411133</float> 
+     <float>100.75537</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.4292</float> 
+     <float>100.75098</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.44043</float> 
+     <float>100.754395</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.464355</float> 
+     <float>100.75342</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.47754</float> 
+     <float>100.75781</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.479492</float> 
+     <float>100.76807</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.476562</float> 
+     <float>100.77734</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.486816</float> 
+     <float>100.7793</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.495117</float> 
+     <float>100.78711</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.521484</float> 
+     <float>100.773926</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.530273</float> 
+     <float>100.77832</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.53955</float> 
+     <float>100.78418</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.557617</float> 
+     <float>100.78613</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.563965</float> 
+     <float>100.78027</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.568848</float> 
+     <float>100.779785</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.575684</float> 
+     <float>100.768555</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.601562</float> 
+     <float>100.771484</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.634766</float> 
+     <float>100.75781</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.664062</float> 
+     <float>100.75195</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.691406</float> 
+     <float>100.74414</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.69922</float> 
+     <float>100.76172</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.71875</float> 
+     <float>100.76953</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.740234</float> 
+     <float>100.77734</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.76367</float> 
+     <float>100.77734</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.79297</float> 
+     <float>100.74805</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.79297</float> 
+     <float>100.7832</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.79297</float> 
+     <float>100.80469</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.82422</float> 
+     <float>100.80469</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.84375</float> 
+     <float>100.8125</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.859375</float> 
+     <float>100.82617</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.933594</float> 
+     <float>100.796875</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.95508</float> 
+     <float>100.79492</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.966797</float> 
+     <float>100.76758</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.98828</float> 
+     <float>100.765625</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.01758</float> 
+     <float>100.74609</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.033203</float> 
+     <float>100.77344</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.060547</float> 
+     <float>100.822266</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.091797</float> 
+     <float>100.83594</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.15625</float> 
+     <float>100.875</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.18164</float> 
+     <float>100.802734</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.17578</float> 
+     <float>100.66406</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.154297</float> 
+     <float>100.5957</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.148438</float> 
+     <float>100.5625</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.103516</float> 
+     <float>100.37695</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.08789</float> 
+     <float>100.28125</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.216797</float> 
+     <float>100.15234</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.228516</float> 
+     <float>100.20117</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.259766</float> 
+     <float>100.22656</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.296875</float> 
+     <float>100.23828</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.314453</float> 
+     <float>100.24805</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.34375</float> 
+     <float>100.2168</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.35547</float> 
+     <float>100.20703</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.376953</float> 
+     <float>100.19385</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.384277</float> 
+     <float>100.20654</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.402344</float> 
+     <float>100.217285</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.411133</float> 
+     <float>100.21875</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.41504</float> 
+     <float>100.223145</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.41748</float> 
+     <float>100.2207</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.419434</float> 
+     <float>100.21533</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.41992</float> 
+     <float>100.21289</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.425293</float> 
+     <float>100.21387</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.424316</float> 
+     <float>100.21973</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.427734</float> 
+     <float>100.22217</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.43213</float> 
+     <float>100.22363</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.435547</float> 
+     <float>100.22803</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.438965</float> 
+     <float>100.22461</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.44336</float> 
+     <float>100.22363</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.444336</float> 
+     <float>100.22363</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.45215</float> 
+     <float>100.22363</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.456543</float> 
+     <float>100.22461</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.458008</float> 
+     <float>100.22949</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.460938</float> 
+     <float>100.231445</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.467285</float> 
+     <float>100.22803</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.473145</float> 
+     <float>100.22998</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.57422</float> 
+     <float>100.22461</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.59375</float> 
+     <float>100.203125</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.615234</float> 
+     <float>100.15234</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.640625</float> 
+     <float>100.09375</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.65039</float> 
+     <float>100.03906</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.697266</float> 
+     <float>99.98828</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.73828</float> 
+     <float>99.99219</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.777344</float> 
+     <float>99.96484</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.835938</float> 
+     <float>100.00586</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.867188</float> 
+     <float>100.0332</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.88086</float> 
+     <float>100.07031</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.896484</float> 
+     <float>100.125</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.914062</float> 
+     <float>100.13867</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.935547</float> 
+     <float>100.16016</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.972656</float> 
+     <float>100.18164</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.996094</float> 
+     <float>100.20703</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.021484</float> 
+     <float>100.197266</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.052734</float> 
+     <float>100.21094</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.08203</float> 
+     <float>100.228516</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.115234</float> 
+     <float>100.24219</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.15039</float> 
+     <float>100.25781</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.19336</float> 
+     <float>100.259766</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.214844</float> 
+     <float>100.259766</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.28711</float> 
+     <float>100.21875</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.320312</float> 
+     <float>100.23633</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.34375</float> 
+     <float>100.25</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.375</float> 
+     <float>100.26758</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.404297</float> 
+     <float>100.27344</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.408203</float> 
+     <float>100.27539</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.433594</float> 
+     <float>100.29492</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.460938</float> 
+     <float>100.29492</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.48242</float> 
+     <float>100.29492</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.5</float> 
+     <float>100.29297</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.507812</float> 
+     <float>100.31641</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.51758</float> 
+     <float>100.33984</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.53711</float> 
+     <float>100.36328</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.560547</float> 
+     <float>100.37305</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.585938</float> 
+     <float>100.39258</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.61133</float> 
+     <float>100.416016</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.75</float> 
+     <float>100.51758</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.791016</float> 
+     <float>100.52344</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.835938</float> 
+     <float>100.50781</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.86328</float> 
+     <float>100.515625</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.890625</float> 
+     <float>100.53125</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.933594</float> 
+     <float>100.50781</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.964844</float> 
+     <float>100.49414</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.992188</float> 
+     <float>100.50391</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.033203</float> 
+     <float>100.50586</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.07617</float> 
+     <float>100.49805</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.089844</float> 
+     <float>100.48633</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.09424</float> 
+     <float>100.470215</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.080566</float> 
+     <float>100.467285</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.071777</float> 
+     <float>100.46777</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.016113</float> 
+     <float>100.46631</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.016113</float> 
+     <float>100.44531</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.006348</float> 
+     <float>100.42578</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.992676</float> 
+     <float>100.42041</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.983887</float> 
+     <float>100.413574</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.980957</float> 
+     <float>100.387695</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.96631</float> 
+     <float>100.38721</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.93457</float> 
+     <float>100.40576</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.916992</float> 
+     <float>100.41553</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.91211</float> 
+     <float>100.41992</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.904297</float> 
+     <float>100.42529</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.90332</float> 
+     <float>100.45801</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.910645</float> 
+     <float>100.46924</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.92285</float> 
+     <float>100.47705</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.93799</float> 
+     <float>100.48584</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.95117</float> 
+     <float>100.48535</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.958496</float> 
+     <float>100.4917</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.003906</float> 
+     <float>100.50879</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.03369</float> 
+     <float>100.50879</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.06201</float> 
+     <float>100.50391</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.09131</float> 
+     <float>100.48828</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.097168</float> 
+     <float>100.47168</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.11133</float> 
+     <float>100.470215</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.12207</float> 
+     <float>100.475586</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.12549</float> 
+     <float>100.49219</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.129395</float> 
+     <float>100.504395</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.13965</float> 
+     <float>100.50781</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.15625</float> 
+     <float>100.506836</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.175293</float> 
+     <float>100.50391</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.19043</float> 
+     <float>100.50049</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.202637</float> 
+     <float>100.5</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.211914</float> 
+     <float>100.49902</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.219727</float> 
+     <float>100.506836</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.23291</float> 
+     <float>100.52295</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.24756</float> 
+     <float>100.52783</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.2583</float> 
+     <float>100.52783</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.28418</float> 
+     <float>100.54932</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.293457</float> 
+     <float>100.55615</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.31201</float> 
+     <float>100.55615</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.325684</float> 
+     <float>100.55371</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.32617</float> 
+     <float>100.55322</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.33545</float> 
+     <float>100.54541</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.341797</float> 
+     <float>100.53662</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.348145</float> 
+     <float>100.52588</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.35547</float> 
+     <float>100.52246</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.356445</float> 
+     <float>100.52246</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.36914</float> 
+     <float>100.51904</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.385742</float> 
+     <float>100.51611</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.391113</float> 
+     <float>100.51611</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.3916</float> 
+     <float>100.51611</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.39502</float> 
+     <float>100.51367</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.395508</float> 
+     <float>100.51367</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.405273</float> 
+     <float>100.51367</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.41162</float> 
+     <float>100.51416</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.415527</float> 
+     <float>100.51953</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.42334</float> 
+     <float>100.53369</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.42871</float> 
+     <float>100.541504</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.45996</float> 
+     <float>100.56152</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.466797</float> 
+     <float>100.56543</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.475098</float> 
+     <float>100.57764</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.480957</float> 
+     <float>100.59033</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.489258</float> 
+     <float>100.617676</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.504883</float> 
+     <float>100.64697</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.51465</float> 
+     <float>100.66016</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.524414</float> 
+     <float>100.66553</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.563477</float> 
+     <float>100.7168</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.603516</float> 
+     <float>100.8125</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.680664</float> 
+     <float>100.93457</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.84082</float> 
+     <float>101.20703</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.88379</float> 
+     <float>101.22656</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.907227</float> 
+     <float>101.20996</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.927734</float> 
+     <float>101.20996</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.066406</float> 
+     <float>101.03613</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.125</float> 
+     <float>101.06738</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.14258</float> 
+     <float>101.083984</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.152344</float> 
+     <float>101.08496</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.17578</float> 
+     <float>101.05859</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.183594</float> 
+     <float>101.02734</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.189453</float> 
+     <float>101.01172</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.305664</float> 
+     <float>100.94336</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.333984</float> 
+     <float>100.94238</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.347656</float> 
+     <float>100.94043</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.387695</float> 
+     <float>100.94922</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.399414</float> 
+     <float>100.9541</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.4209</float> 
+     <float>100.953125</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.421875</float> 
+     <float>100.93652</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.43457</float> 
+     <float>100.92578</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.49414</float> 
+     <float>100.944336</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.658203</float> 
+     <float>101.072266</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.671875</float> 
+     <float>101.100586</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>101.10547</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.72168</float> 
+     <float>101.112305</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.835938</float> 
+     <float>101.149414</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.930664</float> 
+     <float>101.19922</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.029297</float> 
+     <float>101.20996</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.089844</float> 
+     <float>101.21484</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.12793</float> 
+     <float>101.20703</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.180664</float> 
+     <float>101.20801</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.222656</float> 
+     <float>101.1709</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.245117</float> 
+     <float>101.16992</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.25293</float> 
+     <float>101.14453</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.23633</float> 
+     <float>101.09375</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.24121</float> 
+     <float>101.07031</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.23242</float> 
+     <float>101.05469</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.231445</float> 
+     <float>100.99805</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.23047</float> 
+     <float>100.97949</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.254883</float> 
+     <float>100.83203</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.26367</float> 
+     <float>100.72266</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.26172</float> 
+     <float>100.56055</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.26953</float> 
+     <float>100.538086</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.270508</float> 
+     <float>100.49219</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.27832</float> 
+     <float>100.481445</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.307617</float> 
+     <float>100.50195</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.308594</float> 
+     <float>100.515625</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.323242</float> 
+     <float>100.52539</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.33496</float> 
+     <float>100.5332</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.351562</float> 
+     <float>100.5332</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.36133</float> 
+     <float>100.538086</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.365234</float> 
+     <float>100.55078</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.374023</float> 
+     <float>100.552734</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.38965</float> 
+     <float>100.5459</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.402344</float> 
+     <float>100.53516</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.40918</float> 
+     <float>100.52246</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.42285</float> 
+     <float>100.52051</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.4375</float> 
+     <float>100.51953</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.44922</float> 
+     <float>100.51172</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.46582</float> 
+     <float>100.49609</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.476562</float> 
+     <float>100.49512</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.48047</float> 
+     <float>100.50391</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.487305</float> 
+     <float>100.51172</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.493164</float> 
+     <float>100.51758</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.498047</float> 
+     <float>100.52637</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.498047</float> 
+     <float>100.54297</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.504883</float> 
+     <float>100.555664</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.510742</float> 
+     <float>100.572266</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.518555</float> 
+     <float>100.58887</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.53125</float> 
+     <float>100.59375</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.5459</float> 
+     <float>100.59277</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.557617</float> 
+     <float>100.586914</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.56543</float> 
+     <float>100.58008</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.58203</float> 
+     <float>100.58203</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.59668</float> 
+     <float>100.581055</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.629883</float> 
+     <float>100.58887</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.634766</float> 
+     <float>100.59473</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.64746</float> 
+     <float>100.5957</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.663086</float> 
+     <float>100.59961</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.67871</float> 
+     <float>100.61426</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.694336</float> 
+     <float>100.63281</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.70703</float> 
+     <float>100.63965</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.719727</float> 
+     <float>100.646484</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.729492</float> 
+     <float>100.65039</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.74707</float> 
+     <float>100.65039</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.76367</float> 
+     <float>100.65137</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.78125</float> 
+     <float>100.586914</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.786133</float> 
+     <float>100.53027</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.786133</float> 
+     <float>100.51465</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.789062</float> 
+     <float>100.458984</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.80371</float> 
+     <float>100.45215</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.811523</float> 
+     <float>100.44336</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.899414</float> 
+     <float>100.42969</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.907227</float> 
+     <float>100.4209</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.996094</float> 
+     <float>100.37988</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.00879</float> 
+     <float>100.368164</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.043945</float> 
+     <float>100.31836</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.052734</float> 
+     <float>100.291016</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.1084</float> 
+     <float>100.243164</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.15625</float> 
+     <float>100.18359</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.4375</float> 
+     <float>100.02344</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.453125</float> 
+     <float>99.97656</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.515625</float> 
+     <float>99.91797</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.59375</float> 
+     <float>99.90234</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.617188</float> 
+     <float>99.84375</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.60547</float> 
+     <float>99.80078</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.59375</float> 
+     <float>99.78125</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.65625</float> 
+     <float>99.63281</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.753906</float> 
+     <float>99.58594</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.882812</float> 
+     <float>99.51172</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.86914</float> 
+     <float>99.4707</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.820312</float> 
+     <float>99.39453</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.83203</float> 
+     <float>99.34961</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.833984</float> 
+     <float>99.31641</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.816406</float> 
+     <float>99.30469</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.816406</float> 
+     <float>99.265625</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.83008</float> 
+     <float>99.25195</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.84375</float> 
+     <float>99.21094</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.85547</float> 
+     <float>99.18945</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.85547</float> 
+     <float>99.12891</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.85742</float> 
+     <float>99.12305</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.842773</float> 
+     <float>99.12109</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.835938</float> 
+     <float>99.12598</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.810547</float> 
+     <float>99.15625</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.793945</float> 
+     <float>99.15723</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.780273</float> 
+     <float>99.14746</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.762695</float> 
+     <float>99.13867</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.720703</float> 
+     <float>99.17578</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.646484</float> 
+     <float>99.21484</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.640625</float> 
+     <float>99.24219</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.60742</float> 
+     <float>99.265625</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.578125</float> 
+     <float>99.27539</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.552734</float> 
+     <float>99.26758</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.52539</float> 
+     <float>99.265625</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.496094</float> 
+     <float>99.27734</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.464844</float> 
+     <float>99.27734</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.45117</float> 
+     <float>99.2793</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.384766</float> 
+     <float>99.24805</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.33008</float> 
+     <float>99.22461</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.32544</float> 
+     <float>99.2312</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.307617</float> 
+     <float>99.23389</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.305664</float> 
+     <float>99.23633</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.273193</float> 
+     <float>99.24097</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.268555</float> 
+     <float>99.22949</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.270508</float> 
+     <float>99.22803</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.270752</float> 
+     <float>99.22778</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.270996</float> 
+     <float>99.22778</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.27124</float> 
+     <float>99.22778</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.271484</float> 
+     <float>99.22778</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.27173</float> 
+     <float>99.22778</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.271973</float> 
+     <float>99.22778</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.272217</float> 
+     <float>99.22778</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.27246</float> 
+     <float>99.22778</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.272705</float> 
+     <float>99.22778</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.27295</float> 
+     <float>99.22778</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.27295</float> 
+     <float>99.22754</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.273193</float> 
+     <float>99.22754</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.273193</float> 
+     <float>99.227295</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.273438</float> 
+     <float>99.227295</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.27368</float> 
+     <float>99.227295</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.273926</float> 
+     <float>99.227295</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.27417</float> 
+     <float>99.22705</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.274414</float> 
+     <float>99.22705</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.27466</float> 
+     <float>99.22705</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.274902</float> 
+     <float>99.22681</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.275146</float> 
+     <float>99.22681</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.27539</float> 
+     <float>99.22681</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.27588</float> 
+     <float>99.22681</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.276123</float> 
+     <float>99.22656</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.276367</float> 
+     <float>99.22656</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.276367</float> 
+     <float>99.22632</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.27661</float> 
+     <float>99.22632</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.27661</float> 
+     <float>99.226074</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.276855</float> 
+     <float>99.226074</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.2771</float> 
+     <float>99.226074</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.277344</float> 
+     <float>99.226074</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.277588</float> 
+     <float>99.226074</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.277832</float> 
+     <float>99.226074</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.278076</float> 
+     <float>99.226074</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.27832</float> 
+     <float>99.226074</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.278564</float> 
+     <float>99.226074</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.278564</float> 
+     <float>99.22632</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.27881</float> 
+     <float>99.22656</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.27881</float> 
+     <float>99.22681</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.279053</float> 
+     <float>99.22681</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.279297</float> 
+     <float>99.22705</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.27954</float> 
+     <float>99.22705</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.27954</float> 
+     <float>99.227295</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.27954</float> 
+     <float>99.22754</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.279785</float> 
+     <float>99.22754</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.28003</float> 
+     <float>99.22754</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.280273</float> 
+     <float>99.22754</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.280518</float> 
+     <float>99.22754</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.28076</float> 
+     <float>99.22754</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.281006</float> 
+     <float>99.22754</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.28125</float> 
+     <float>99.22754</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.281494</float> 
+     <float>99.22754</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.28174</float> 
+     <float>99.22754</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.281982</float> 
+     <float>99.22754</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.282227</float> 
+     <float>99.22754</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.28247</float> 
+     <float>99.22754</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.282715</float> 
+     <float>99.22754</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.282715</float> 
+     <float>99.227295</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.282715</float> 
+     <float>99.22705</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.282715</float> 
+     <float>99.22681</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.282715</float> 
+     <float>99.22656</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.282715</float> 
+     <float>99.22632</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.282715</float> 
+     <float>99.226074</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.282715</float> 
+     <float>99.22583</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.282715</float> 
+     <float>99.225586</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.282715</float> 
+     <float>99.22534</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.282715</float> 
+     <float>99.2251</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.282715</float> 
+     <float>99.22485</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.282715</float> 
+     <float>99.22461</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.282715</float> 
+     <float>99.224365</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.282715</float> 
+     <float>99.22412</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.282715</float> 
+     <float>99.22388</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.282715</float> 
+     <float>99.22363</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.282715</float> 
+     <float>99.22339</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.282715</float> 
+     <float>99.223145</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.282715</float> 
+     <float>99.2229</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.282715</float> 
+     <float>99.22266</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.280273</float> 
+     <float>99.215576</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.269287</float> 
+     <float>99.2074</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.26355</float> 
+     <float>99.19202</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.26587</float> 
+     <float>99.18689</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.274414</float> 
+     <float>99.178955</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.275757</float> 
+     <float>99.17285</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.272095</float> 
+     <float>99.16992</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.27527</float> 
+     <float>99.16846</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.276245</float> 
+     <float>99.16565</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.276367</float> 
+     <float>99.16211</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.271484</float> 
+     <float>99.15283</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.275513</float> 
+     <float>99.14465</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.2771</float> 
+     <float>99.132935</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.271973</float> 
+     <float>99.12891</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.265625</float> 
+     <float>99.07422</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.271973</float> 
+     <float>99.058105</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.305664</float> 
+     <float>99.0083</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.320312</float> 
+     <float>98.92578</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.365234</float> 
+     <float>98.89453</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.367188</float> 
+     <float>98.86328</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.375</float> 
+     <float>98.853516</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.36133</float> 
+     <float>98.8125</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.371094</float> 
+     <float>98.771484</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.371094</float> 
+     <float>98.74609</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.373047</float> 
+     <float>98.71875</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.33203</float> 
+     <float>98.65039</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.341797</float> 
+     <float>98.609375</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.27539</float> 
+     <float>98.4082</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.208984</float> 
+     <float>98.41406</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.160156</float> 
+     <float>98.41211</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.134766</float> 
+     <float>98.41406</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.04492</float> 
+     <float>98.44141</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.029297</float> 
+     <float>98.49414</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>49.01367</float> 
+     <float>98.49805</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.972656</float> 
+     <float>98.48828</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.945312</float> 
+     <float>98.484375</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.92383</float> 
+     <float>98.490234</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.902344</float> 
+     <float>98.48828</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.88672</float> 
+     <float>98.48633</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.865234</float> 
+     <float>98.46484</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.839844</float> 
+     <float>98.458984</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.820312</float> 
+     <float>98.458984</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.80078</float> 
+     <float>98.45508</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.785156</float> 
+     <float>98.47266</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.714844</float> 
+     <float>98.46875</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.695312</float> 
+     <float>98.4707</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.664062</float> 
+     <float>98.484375</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.646484</float> 
+     <float>98.49414</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.625</float> 
+     <float>98.49805</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.603516</float> 
+     <float>98.55859</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.58789</float> 
+     <float>98.59766</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.58789</float> 
+     <float>98.62695</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.570312</float> 
+     <float>98.65039</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.578125</float> 
+     <float>98.68359</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.578125</float> 
+     <float>98.71289</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.564453</float> 
+     <float>98.75391</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.54883</float> 
+     <float>98.76758</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.578125</float> 
+     <float>98.81055</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.595703</float> 
+     <float>98.86328</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.634766</float> 
+     <float>98.9082</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.64795</float> 
+     <float>98.94287</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.644043</float> 
+     <float>98.95459</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.625</float> 
+     <float>98.94922</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.60547</float> 
+     <float>98.94824</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.58008</float> 
+     <float>98.956055</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.57129</float> 
+     <float>98.95996</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.53711</float> 
+     <float>98.96094</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.496094</float> 
+     <float>98.921875</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.447266</float> 
+     <float>98.88672</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.441406</float> 
+     <float>98.90039</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.396484</float> 
+     <float>98.90234</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.35547</float> 
+     <float>98.89453</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.33789</float> 
+     <float>98.92578</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.333984</float> 
+     <float>98.94922</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.29883</float> 
+     <float>98.978516</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.271484</float> 
+     <float>99.00195</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.246094</float> 
+     <float>99.01367</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.089844</float> 
+     <float>98.9707</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.066406</float> 
+     <float>98.90625</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.052734</float> 
+     <float>98.9082</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.041016</float> 
+     <float>98.95117</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>48.007812</float> 
+     <float>98.95508</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.98828</float> 
+     <float>98.96094</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.970703</float> 
+     <float>98.958984</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.947266</float> 
+     <float>98.97461</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.929688</float> 
+     <float>98.98047</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.91211</float> 
+     <float>99.0</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.910156</float> 
+     <float>99.01367</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.890625</float> 
+     <float>99.01953</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.876953</float> 
+     <float>99.04492</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.871094</float> 
+     <float>99.06055</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.851562</float> 
+     <float>99.05859</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.845703</float> 
+     <float>99.052734</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.81836</float> 
+     <float>99.05469</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.791016</float> 
+     <float>99.05469</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.765625</float> 
+     <float>99.05078</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.768066</float> 
+     <float>99.058105</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.76465</float> 
+     <float>99.07715</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.76953</float> 
+     <float>99.08301</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.766113</float> 
+     <float>99.089355</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.76367</float> 
+     <float>99.09668</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.756348</float> 
+     <float>99.098145</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.75049</float> 
+     <float>99.10156</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.759766</float> 
+     <float>99.12988</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.753418</float> 
+     <float>99.1333</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.74414</float> 
+     <float>99.13086</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.73877</float> 
+     <float>99.12598</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.73828</float> 
+     <float>99.12549</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.737793</float> 
+     <float>99.125</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.736816</float> 
+     <float>99.12451</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.73633</float> 
+     <float>99.12402</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.73584</float> 
+     <float>99.12402</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.73535</float> 
+     <float>99.12402</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.734863</float> 
+     <float>99.12402</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.734375</float> 
+     <float>99.12402</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.733887</float> 
+     <float>99.12402</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.7334</float> 
+     <float>99.123535</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.73242</float> 
+     <float>99.123535</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.731934</float> 
+     <float>99.123535</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.731445</float> 
+     <float>99.123535</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.730957</float> 
+     <float>99.12305</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.73047</float> 
+     <float>99.12305</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.72998</float> 
+     <float>99.12305</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.729492</float> 
+     <float>99.12305</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.729004</float> 
+     <float>99.12305</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.729004</float> 
+     <float>99.12256</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.728516</float> 
+     <float>99.12256</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.728027</float> 
+     <float>99.12207</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.728027</float> 
+     <float>99.12158</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.72754</float> 
+     <float>99.12158</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.72754</float> 
+     <float>99.12109</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.72754</float> 
+     <float>99.120605</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.72705</float> 
+     <float>99.12012</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.72705</float> 
+     <float>99.11963</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.72705</float> 
+     <float>99.11914</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.72705</float> 
+     <float>99.11865</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.72705</float> 
+     <float>99.118164</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.72705</float> 
+     <float>99.117676</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.72705</float> 
+     <float>99.11719</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.72705</float> 
+     <float>99.1167</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.72705</float> 
+     <float>99.11621</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.72705</float> 
+     <float>99.11572</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.72705</float> 
+     <float>99.115234</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.72705</float> 
+     <float>99.114746</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.726562</float> 
+     <float>99.114746</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.726074</float> 
+     <float>99.11377</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.725586</float> 
+     <float>99.11377</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.725098</float> 
+     <float>99.11328</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.72412</float> 
+     <float>99.11328</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.723633</float> 
+     <float>99.11279</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.722656</float> 
+     <float>99.11279</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.722168</float> 
+     <float>99.11279</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.720703</float> 
+     <float>99.11279</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.720215</float> 
+     <float>99.11279</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.719727</float> 
+     <float>99.11279</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.71924</float> 
+     <float>99.11279</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.71875</float> 
+     <float>99.11279</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.71826</float> 
+     <float>99.11279</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.717773</float> 
+     <float>99.11279</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.717285</float> 
+     <float>99.11279</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.717285</float> 
+     <float>99.11328</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.716797</float> 
+     <float>99.11328</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.71631</float> 
+     <float>99.11328</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.71582</float> 
+     <float>99.11328</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.71582</float> 
+     <float>99.11377</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.715332</float> 
+     <float>99.11377</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.714844</float> 
+     <float>99.11377</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.714355</float> 
+     <float>99.11377</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.713867</float> 
+     <float>99.11377</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.71338</float> 
+     <float>99.11377</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.71289</float> 
+     <float>99.11377</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.712402</float> 
+     <float>99.11377</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.711914</float> 
+     <float>99.11377</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.711426</float> 
+     <float>99.11377</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.710938</float> 
+     <float>99.11377</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.71045</float> 
+     <float>99.11377</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.70996</float> 
+     <float>99.11377</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.709473</float> 
+     <float>99.11377</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.708984</float> 
+     <float>99.11377</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.708008</float> 
+     <float>99.11377</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.70703</float> 
+     <float>99.11328</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.706055</float> 
+     <float>99.11279</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.705566</float> 
+     <float>99.11279</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.70459</float> 
+     <float>99.112305</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.703613</float> 
+     <float>99.11133</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.703125</float> 
+     <float>99.11133</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.702637</float> 
+     <float>99.11084</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.70166</float> 
+     <float>99.11035</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.70117</float> 
+     <float>99.11035</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.700195</float> 
+     <float>99.10986</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.69922</float> 
+     <float>99.109375</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.69873</float> 
+     <float>99.109375</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.698242</float> 
+     <float>99.10889</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.697754</float> 
+     <float>99.10889</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.697266</float> 
+     <float>99.10889</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.696777</float> 
+     <float>99.1084</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.69629</float> 
+     <float>99.1084</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.6958</float> 
+     <float>99.1084</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.695312</float> 
+     <float>99.1084</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.69336</float> 
+     <float>99.10791</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.69287</float> 
+     <float>99.10742</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.692383</float> 
+     <float>99.10742</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691895</float> 
+     <float>99.10742</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691895</float> 
+     <float>99.10693</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.10693</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.106445</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.10596</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.10547</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.10498</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.104004</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.103516</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.10303</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.10254</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.10205</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.10156</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.101074</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.100586</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.1001</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.09961</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.09863</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.098145</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.09766</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.09717</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.09668</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.0957</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.095215</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.09424</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.09277</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.0918</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.09131</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.09033</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.08984</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.089355</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.08887</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.08838</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.08789</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.0874</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.086914</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.086426</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.08594</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.08545</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.08496</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.691406</float> 
+     <float>99.08447</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.690918</float> 
+     <float>99.08447</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.69043</float> 
+     <float>99.083496</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.68994</float> 
+     <float>99.08301</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.68994</float> 
+     <float>99.08252</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.689453</float> 
+     <float>99.08203</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.689453</float> 
+     <float>99.08154</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.689453</float> 
+     <float>99.081055</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.688965</float> 
+     <float>99.081055</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.688477</float> 
+     <float>99.08057</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.68799</float> 
+     <float>99.08008</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.6875</float> 
+     <float>99.07959</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.68701</float> 
+     <float>99.07959</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.68701</float> 
+     <float>99.0791</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.686523</float> 
+     <float>99.07861</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.686523</float> 
+     <float>99.078125</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.686035</float> 
+     <float>99.078125</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.685547</float> 
+     <float>99.07764</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.68506</float> 
+     <float>99.07764</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.684082</float> 
+     <float>99.07666</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.683594</float> 
+     <float>99.07617</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.682617</float> 
+     <float>99.075195</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.68213</float> 
+     <float>99.07471</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.68164</float> 
+     <float>99.07422</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.68164</float> 
+     <float>99.07373</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.681152</float> 
+     <float>99.07373</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.680176</float> 
+     <float>99.072754</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.679688</float> 
+     <float>99.072266</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.6792</float> 
+     <float>99.07178</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.67871</float> 
+     <float>99.07129</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.678223</float> 
+     <float>99.0708</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.677734</float> 
+     <float>99.07031</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.676758</float> 
+     <float>99.069336</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.67578</float> 
+     <float>99.06885</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.675293</float> 
+     <float>99.06836</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.674805</float> 
+     <float>99.06836</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.674316</float> 
+     <float>99.06787</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.67383</float> 
+     <float>99.06787</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.67334</float> 
+     <float>99.06787</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.67285</float> 
+     <float>99.06787</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.672363</float> 
+     <float>99.06787</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.6709</float> 
+     <float>99.06787</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.66992</float> 
+     <float>99.06787</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.668945</float> 
+     <float>99.06787</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.668457</float> 
+     <float>99.06787</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.66748</float> 
+     <float>99.06787</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.666504</float> 
+     <float>99.06738</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.666016</float> 
+     <float>99.06738</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.665527</float> 
+     <float>99.066895</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.66504</float> 
+     <float>99.066895</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.66455</float> 
+     <float>99.06641</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.663574</float> 
+     <float>99.06592</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.66211</float> 
+     <float>99.06543</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.661133</float> 
+     <float>99.06494</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.661133</float> 
+     <float>99.06445</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.660645</float> 
+     <float>99.063965</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.660156</float> 
+     <float>99.06348</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.659668</float> 
+     <float>99.06299</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.65918</float> 
+     <float>99.0625</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.65869</float> 
+     <float>99.06201</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.658203</float> 
+     <float>99.06152</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.657715</float> 
+     <float>99.06152</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.65674</float> 
+     <float>99.061035</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.65625</float> 
+     <float>99.061035</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.65576</float> 
+     <float>99.06055</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.65576</float> 
+     <float>99.06006</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.654785</float> 
+     <float>99.05957</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.654297</float> 
+     <float>99.05908</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.65381</float> 
+     <float>99.05859</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.65332</float> 
+     <float>99.058105</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.651855</float> 
+     <float>99.05762</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.651367</float> 
+     <float>99.05664</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.65088</float> 
+     <float>99.05615</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.65039</float> 
+     <float>99.055664</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.649902</float> 
+     <float>99.055664</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.649414</float> 
+     <float>99.05469</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.648926</float> 
+     <float>99.0542</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.648438</float> 
+     <float>99.05371</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.64795</float> 
+     <float>99.05322</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.64746</float> 
+     <float>99.052734</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.64746</float> 
+     <float>99.052246</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.646484</float> 
+     <float>99.05176</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.645508</float> 
+     <float>99.05078</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.645508</float> 
+     <float>99.05029</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.64502</float> 
+     <float>99.05029</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.64502</float> 
+     <float>99.049805</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.64453</float> 
+     <float>99.04932</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.644043</float> 
+     <float>99.04932</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.643555</float> 
+     <float>99.04883</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.643066</float> 
+     <float>99.04834</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.64209</float> 
+     <float>99.04785</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.640625</float> 
+     <float>99.04736</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.63916</float> 
+     <float>99.046875</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.63867</float> 
+     <float>99.046875</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.638184</float> 
+     <float>99.046875</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.637207</float> 
+     <float>99.04639</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.63672</float> 
+     <float>99.04639</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.63672</float> 
+     <float>99.0459</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.63623</float> 
+     <float>99.0459</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.635742</float> 
+     <float>99.04541</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.634277</float> 
+     <float>99.04443</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.632812</float> 
+     <float>99.043945</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.632324</float> 
+     <float>99.04346</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.632324</float> 
+     <float>99.04297</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.631836</float> 
+     <float>99.04297</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.631348</float> 
+     <float>99.04248</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.63037</float> 
+     <float>99.04199</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.629883</float> 
+     <float>99.04199</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.629395</float> 
+     <float>99.04199</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.628906</float> 
+     <float>99.041504</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.628418</float> 
+     <float>99.041504</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.62793</float> 
+     <float>99.041504</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.62744</float> 
+     <float>99.041504</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.626953</float> 
+     <float>99.041504</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.625977</float> 
+     <float>99.041504</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.625</float> 
+     <float>99.041504</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.624023</float> 
+     <float>99.041504</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.62256</float> 
+     <float>99.041504</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.62207</float> 
+     <float>99.041504</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.621582</float> 
+     <float>99.041504</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.620605</float> 
+     <float>99.041504</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.620117</float> 
+     <float>99.041504</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.61963</float> 
+     <float>99.041504</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.61914</float> 
+     <float>99.041504</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.618652</float> 
+     <float>99.041504</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.617676</float> 
+     <float>99.041504</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.617188</float> 
+     <float>99.041504</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.61621</float> 
+     <float>99.041504</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.615723</float> 
+     <float>99.041504</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.615234</float> 
+     <float>99.041504</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.614258</float> 
+     <float>99.041504</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.61377</float> 
+     <float>99.041504</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.61328</float> 
+     <float>99.041504</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.612793</float> 
+     <float>99.041016</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.611816</float> 
+     <float>99.04053</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.61035</float> 
+     <float>99.04004</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.609863</float> 
+     <float>99.04004</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.608887</float> 
+     <float>99.03955</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.6084</float> 
+     <float>99.03955</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.60791</float> 
+     <float>99.03906</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.60742</float> 
+     <float>99.03906</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.60742</float> 
+     <float>99.038574</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.606445</float> 
+     <float>99.038574</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.606445</float> 
+     <float>99.038086</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.605957</float> 
+     <float>99.038086</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.60547</float> 
+     <float>99.0376</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.60498</float> 
+     <float>99.0376</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.60254</float> 
+     <float>99.03662</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.601074</float> 
+     <float>99.035645</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.600098</float> 
+     <float>99.03516</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.59961</float> 
+     <float>99.03516</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.586914</float> 
+     <float>99.03027</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.523438</float> 
+     <float>99.10547</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.410156</float> 
+     <float>99.390625</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.234375</float> 
+     <float>99.546875</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>47.183594</float> 
+     <float>99.66016</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.960938</float> 
+     <float>99.75781</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.80078</float> 
+     <float>99.85156</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.73047</float> 
+     <float>99.83984</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.546875</float> 
+     <float>99.92969</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.3125</float> 
+     <float>100.14844</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.26172</float> 
+     <float>100.23828</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.160156</float> 
+     <float>100.30859</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.097656</float> 
+     <float>100.40625</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>46.089844</float> 
+     <float>100.578125</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.992188</float> 
+     <float>100.70703</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.890625</float> 
+     <float>100.98828</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.460938</float> 
+     <float>101.17969</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>45.289062</float> 
+     <float>101.3125</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.921875</float> 
+     <float>101.47656</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.773438</float> 
+     <float>101.484375</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.664062</float> 
+     <float>101.61719</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.601562</float> 
+     <float>101.78125</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.46875</float> 
+     <float>101.96094</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.5</float> 
+     <float>102.07031</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.507812</float> 
+     <float>102.08984</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.447266</float> 
+     <float>102.14453</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.33008</float> 
+     <float>102.146484</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.302734</float> 
+     <float>102.15234</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.283203</float> 
+     <float>102.16211</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.220703</float> 
+     <float>102.1582</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.16211</float> 
+     <float>102.1543</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.117188</float> 
+     <float>102.14258</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.08789</float> 
+     <float>102.14453</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.054688</float> 
+     <float>102.13086</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>44.01367</float> 
+     <float>102.13086</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.976562</float> 
+     <float>102.13281</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.962402</float> 
+     <float>102.14111</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.947266</float> 
+     <float>102.13672</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.933594</float> 
+     <float>102.13916</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.922363</float> 
+     <float>102.134766</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.91211</float> 
+     <float>102.12891</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.898926</float> 
+     <float>102.13135</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.88672</float> 
+     <float>102.13135</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.878418</float> 
+     <float>102.12891</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.819336</float> 
+     <float>102.13086</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.803223</float> 
+     <float>102.13037</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.77246</float> 
+     <float>102.12842</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.737305</float> 
+     <float>102.120605</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.72168</float> 
+     <float>102.1167</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.666992</float> 
+     <float>102.11914</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.60742</float> 
+     <float>102.134766</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.59375</float> 
+     <float>102.134766</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.570312</float> 
+     <float>102.143555</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.5166</float> 
+     <float>102.13574</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.481445</float> 
+     <float>102.11328</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.447266</float> 
+     <float>102.10254</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.41992</float> 
+     <float>102.10254</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.396484</float> 
+     <float>102.08887</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.364258</float> 
+     <float>102.07617</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.260742</float> 
+     <float>102.069336</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.239258</float> 
+     <float>102.05371</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.208984</float> 
+     <float>102.03516</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.154297</float> 
+     <float>102.021484</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.083984</float> 
+     <float>101.96875</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.035156</float> 
+     <float>101.93555</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>43.000977</float> 
+     <float>101.91504</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.93164</float> 
+     <float>101.89746</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.895508</float> 
+     <float>101.90234</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.87744</float> 
+     <float>101.9082</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.86377</float> 
+     <float>101.89746</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.848145</float> 
+     <float>101.89307</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.83838</float> 
+     <float>101.88574</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.824707</float> 
+     <float>101.85889</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.8291</float> 
+     <float>101.853516</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.823242</float> 
+     <float>101.8457</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.821777</float> 
+     <float>101.84326</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.813477</float> 
+     <float>101.84326</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.806152</float> 
+     <float>101.83252</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.789062</float> 
+     <float>101.82031</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.78369</float> 
+     <float>101.81055</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.76758</float> 
+     <float>101.80469</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.762207</float> 
+     <float>101.79883</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.697754</float> 
+     <float>101.77002</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.646973</float> 
+     <float>101.7583</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.62549</float> 
+     <float>101.737305</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.587402</float> 
+     <float>101.69092</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.57715</float> 
+     <float>101.68799</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.565918</float> 
+     <float>101.67627</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.555664</float> 
+     <float>101.67578</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.543457</float> 
+     <float>101.65527</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.47168</float> 
+     <float>101.62109</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.453613</float> 
+     <float>101.61084</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.438477</float> 
+     <float>101.58838</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.427734</float> 
+     <float>101.57861</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.41748</float> 
+     <float>101.56006</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.385254</float> 
+     <float>101.51758</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.36914</float> 
+     <float>101.49414</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.36914</float> 
+     <float>101.43652</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.35742</float> 
+     <float>101.41211</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.35742</float> 
+     <float>101.40088</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.313477</float> 
+     <float>101.35889</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.28418</float> 
+     <float>101.32422</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.26123</float> 
+     <float>101.30078</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.211914</float> 
+     <float>101.27832</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.17627</float> 
+     <float>101.25781</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.168457</float> 
+     <float>101.24365</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.16992</float> 
+     <float>101.22266</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.180664</float> 
+     <float>101.19043</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.18994</float> 
+     <float>101.15869</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.19043</float> 
+     <float>101.14307</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.17041</float> 
+     <float>101.12207</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.155273</float> 
+     <float>101.12012</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.1416</float> 
+     <float>101.112305</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.132812</float> 
+     <float>101.11035</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.11621</float> 
+     <float>101.09619</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.0791</float> 
+     <float>101.083984</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.061035</float> 
+     <float>101.07568</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.043457</float> 
+     <float>101.03613</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.023438</float> 
+     <float>101.006836</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>42.00244</float> 
+     <float>101.00781</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.976074</float> 
+     <float>100.99707</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.96338</float> 
+     <float>100.98633</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.90381</float> 
+     <float>100.918945</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.88867</float> 
+     <float>100.91553</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.88379</float> 
+     <float>100.90674</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.876953</float> 
+     <float>100.90137</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.867188</float> 
+     <float>100.88672</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.86377</float> 
+     <float>100.876465</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.847168</float> 
+     <float>100.86133</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.835938</float> 
+     <float>100.84424</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.822754</float> 
+     <float>100.83887</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.8125</float> 
+     <float>100.83301</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.79541</float> 
+     <float>100.83154</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.78174</float> 
+     <float>100.82959</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.773926</float> 
+     <float>100.82324</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.756348</float> 
+     <float>100.81494</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.74951</float> 
+     <float>100.79932</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.73828</float> 
+     <float>100.78613</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.737793</float> 
+     <float>100.77734</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.731934</float> 
+     <float>100.7666</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.733887</float> 
+     <float>100.74365</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.69922</float> 
+     <float>100.69141</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.628906</float> 
+     <float>100.62695</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.604492</float> 
+     <float>100.53516</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.581055</float> 
+     <float>100.5166</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.55078</float> 
+     <float>100.506836</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.53418</float> 
+     <float>100.46875</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.518555</float> 
+     <float>100.456055</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.5</float> 
+     <float>100.41406</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.47461</float> 
+     <float>100.384766</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.45117</float> 
+     <float>100.35742</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.42383</float> 
+     <float>100.33887</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.38965</float> 
+     <float>100.29492</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.347656</float> 
+     <float>100.27246</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.320312</float> 
+     <float>100.243164</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.32129</float> 
+     <float>100.228516</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.311523</float> 
+     <float>100.20703</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.31543</float> 
+     <float>100.19043</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.30371</float> 
+     <float>100.16504</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.304688</float> 
+     <float>100.15039</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.2959</float> 
+     <float>100.12402</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.28711</float> 
+     <float>100.09766</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.28711</float> 
+     <float>100.081055</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.2959</float> 
+     <float>100.0625</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.30371</float> 
+     <float>100.05176</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.29956</float> 
+     <float>100.036865</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.29492</float> 
+     <float>100.03516</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.294678</float> 
+     <float>100.03125</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.28833</float> 
+     <float>100.02637</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.28247</float> 
+     <float>100.024414</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.278076</float> 
+     <float>100.02637</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.275146</float> 
+     <float>100.02832</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.269043</float> 
+     <float>100.02417</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.264404</float> 
+     <float>100.02124</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.26465</float> 
+     <float>100.016846</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.263916</float> 
+     <float>100.01465</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.26758</float> 
+     <float>100.01367</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.2688</float> 
+     <float>100.00928</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.27002</float> 
+     <float>100.00537</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.272217</float> 
+     <float>100.00073</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.271973</float> 
+     <float>99.99512</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.27368</float> 
+     <float>99.990234</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.2771</float> 
+     <float>99.9895</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.28125</float> 
+     <float>99.98901</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.28174</float> 
+     <float>99.98901</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.286865</float> 
+     <float>99.98682</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.288086</float> 
+     <float>99.98364</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.28955</float> 
+     <float>99.96948</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.29248</float> 
+     <float>99.97046</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.295166</float> 
+     <float>99.974365</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.29883</float> 
+     <float>99.97803</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.301514</float> 
+     <float>99.97827</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.30298</float> 
+     <float>99.97705</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.303223</float> 
+     <float>99.975586</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.301514</float> 
+     <float>99.97388</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.306152</float> 
+     <float>99.97876</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.309326</float> 
+     <float>99.980225</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.319336</float> 
+     <float>99.993164</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.32202</float> 
+     <float>99.9978</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.326904</float> 
+     <float>99.99829</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.341064</float> 
+     <float>99.99414</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.349365</float> 
+     <float>99.98584</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.359863</float> 
+     <float>99.97339</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.375244</float> 
+     <float>99.95557</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.376465</float> 
+     <float>99.94336</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.38672</float> 
+     <float>99.944824</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.393555</float> 
+     <float>99.94385</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.40869</float> 
+     <float>99.93457</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.41504</float> 
+     <float>99.93701</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.424316</float> 
+     <float>99.9292</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.45459</float> 
+     <float>99.92871</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.481445</float> 
+     <float>99.944824</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.492188</float> 
+     <float>99.91699</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.490234</float> 
+     <float>99.89258</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.529297</float> 
+     <float>99.83789</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.55371</float> 
+     <float>99.79004</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.5708</float> 
+     <float>99.79248</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.57617</float> 
+     <float>99.78662</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.57129</float> 
+     <float>99.7793</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.560547</float> 
+     <float>99.76221</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.560547</float> 
+     <float>99.74805</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.552734</float> 
+     <float>99.74609</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.55664</float> 
+     <float>99.734375</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.560547</float> 
+     <float>99.71973</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.564453</float> 
+     <float>99.71387</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.564453</float> 
+     <float>99.70215</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.5625</float> 
+     <float>99.68359</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.5625</float> 
+     <float>99.674805</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.558594</float> 
+     <float>99.640625</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.539062</float> 
+     <float>99.59766</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.50586</float> 
+     <float>99.5293</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.47754</float> 
+     <float>99.48926</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.435547</float> 
+     <float>99.45117</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.408203</float> 
+     <float>99.424805</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.34082</float> 
+     <float>99.41406</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.299805</float> 
+     <float>99.418945</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.27246</float> 
+     <float>99.413086</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.231445</float> 
+     <float>99.39258</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.225586</float> 
+     <float>99.40723</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.211914</float> 
+     <float>99.41699</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.197266</float> 
+     <float>99.418945</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.19043</float> 
+     <float>99.4209</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.174805</float> 
+     <float>99.40918</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.160156</float> 
+     <float>99.41113</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.152344</float> 
+     <float>99.41113</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.134766</float> 
+     <float>99.393555</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.132812</float> 
+     <float>99.38281</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.12793</float> 
+     <float>99.37695</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.114258</float> 
+     <float>99.36328</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.104492</float> 
+     <float>99.3584</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.097656</float> 
+     <float>99.37305</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.095703</float> 
+     <float>99.38281</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.094727</float> 
+     <float>99.38379</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.083008</float> 
+     <float>99.38379</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.06836</float> 
+     <float>99.37891</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.057617</float> 
+     <float>99.37305</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.046875</float> 
+     <float>99.36621</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.04297</float> 
+     <float>99.362305</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.03418</float> 
+     <float>99.36035</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.023438</float> 
+     <float>99.36035</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.0166</float> 
+     <float>99.362305</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.000977</float> 
+     <float>99.35449</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.0</float> 
+     <float>99.35449</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>40.992188</float> 
+     <float>99.350586</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>40.98047</float> 
+     <float>99.350586</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>40.978516</float> 
+     <float>99.350586</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>40.967773</float> 
+     <float>99.34961</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>40.961914</float> 
+     <float>99.350586</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>40.96289</float> 
+     <float>99.3418</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>40.961914</float> 
+     <float>99.33203</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>40.961914</float> 
+     <float>99.32617</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>40.96289</float> 
+     <float>99.32031</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>40.97461</float> 
+     <float>99.30664</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>40.978516</float> 
+     <float>99.291016</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>40.984375</float> 
+     <float>99.28125</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>40.993164</float> 
+     <float>99.27246</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>40.998047</float> 
+     <float>99.26465</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.015625</float> 
+     <float>99.26465</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.03125</float> 
+     <float>99.25586</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.04004</float> 
+     <float>99.25488</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.052734</float> 
+     <float>99.259766</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.066406</float> 
+     <float>99.262695</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.075195</float> 
+     <float>99.271484</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.083984</float> 
+     <float>99.26953</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.08789</float> 
+     <float>99.268555</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.131836</float> 
+     <float>99.29883</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.148438</float> 
+     <float>99.31445</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.17578</float> 
+     <float>99.33594</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.19922</float> 
+     <float>99.34473</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.20117</float> 
+     <float>99.3291</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.200195</float> 
+     <float>99.31543</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.19629</float> 
+     <float>99.30176</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.2041</float> 
+     <float>99.29492</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.21289</float> 
+     <float>99.288086</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.22168</float> 
+     <float>99.2854</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.27063</float> 
+     <float>99.30188</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.272095</float> 
+     <float>99.297485</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.27832</float> 
+     <float>99.293945</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.28308</float> 
+     <float>99.29126</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.285034</float> 
+     <float>99.29047</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.284546</float> 
+     <float>99.28943</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.284363</float> 
+     <float>99.28824</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.283478</float> 
+     <float>99.287384</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.28192</float> 
+     <float>99.286285</float> 
+    </void> 
+    <void method="lineTo"> 
+     <float>41.282196</float> 
+     <float>99.28604</float> 
+    </void> 
+   </object> 
+  </void> 
+  <void id="ArrayList0" property="photos"> 
+   <void method="add"> 
+    <object id="PhotoWrapper0" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>102415089</string> 
+      </void> 
+      <void property="primary"> 
+       <boolean>true</boolean> 
+      </void> 
+      <void property="secret"> 
+       <string>19bb407a44</string> 
+      </void> 
+      <void property="server"> 
+       <string>36</string> 
+      </void> 
+      <void property="title"> 
+       <string>Death Valley Sunrise</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object id="PhotoWrapper1" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>98455289</string> 
+      </void> 
+      <void property="secret"> 
+       <string>ffa7719b10</string> 
+      </void> 
+      <void property="server"> 
+       <string>29</string> 
+      </void> 
+      <void property="title"> 
+       <string>Windplants</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object id="PhotoWrapper2" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>102088112</string> 
+      </void> 
+      <void property="secret"> 
+       <string>a252788938</string> 
+      </void> 
+      <void property="server"> 
+       <string>41</string> 
+      </void> 
+      <void property="title"> 
+       <string>Mirror Lake</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object id="PhotoWrapper3" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>98452749</string> 
+      </void> 
+      <void property="secret"> 
+       <string>4191693cc8</string> 
+      </void> 
+      <void property="server"> 
+       <string>30</string> 
+      </void> 
+      <void property="title"> 
+       <string>Windplants</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object id="PhotoWrapper4" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>102394076</string> 
+      </void> 
+      <void property="secret"> 
+       <string>ce08fed4d1</string> 
+      </void> 
+      <void property="server"> 
+       <string>30</string> 
+      </void> 
+      <void property="title"> 
+       <string>Pebble Beach</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object id="PhotoWrapper5" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>102398139</string> 
+      </void> 
+      <void property="secret"> 
+       <string>1200a630f8</string> 
+      </void> 
+      <void property="server"> 
+       <string>25</string> 
+      </void> 
+      <void property="title"> 
+       <string>Lone Pine</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object id="PhotoWrapper6" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>99072782</string> 
+      </void> 
+      <void property="secret"> 
+       <string>b6018bc9fd</string> 
+      </void> 
+      <void property="server"> 
+       <string>34</string> 
+      </void> 
+      <void property="title"> 
+       <string>Redwood</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object id="PhotoWrapper7" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>102458289</string> 
+      </void> 
+      <void property="secret"> 
+       <string>6d7a509d2f</string> 
+      </void> 
+      <void property="server"> 
+       <string>31</string> 
+      </void> 
+      <void property="title"> 
+       <string>Nevada Highway</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object id="PhotoWrapper8" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>102458511</string> 
+      </void> 
+      <void property="secret"> 
+       <string>b697c9a2ed</string> 
+      </void> 
+      <void property="server"> 
+       <string>27</string> 
+      </void> 
+      <void property="title"> 
+       <string>Grand Canyon</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object id="PhotoWrapper9" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>87745156</string> 
+      </void> 
+      <void property="secret"> 
+       <string>93ad0b694b</string> 
+      </void> 
+      <void property="server"> 
+       <string>39</string> 
+      </void> 
+      <void property="title"> 
+       <string>Golden Gate</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object id="PhotoWrapper10" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>87745224</string> 
+      </void> 
+      <void property="secret"> 
+       <string>4fced822ec</string> 
+      </void> 
+      <void property="server"> 
+       <string>37</string> 
+      </void> 
+      <void property="title"> 
+       <string>Golden Gate by Night</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object id="PhotoWrapper11" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>112798971</string> 
+      </void> 
+      <void property="secret"> 
+       <string>5ed7f5f686</string> 
+      </void> 
+      <void property="server"> 
+       <string>40</string> 
+      </void> 
+      <void property="title"> 
+       <string>Dunes</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object id="PhotoWrapper12" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>106194142</string> 
+      </void> 
+      <void property="secret"> 
+       <string>3c214d1607</string> 
+      </void> 
+      <void property="server"> 
+       <string>49</string> 
+      </void> 
+      <void property="title"> 
+       <string>Capitol Reef</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object id="PhotoWrapper13" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>106181139</string> 
+      </void> 
+      <void property="secret"> 
+       <string>66fc949124</string> 
+      </void> 
+      <void property="server"> 
+       <string>36</string> 
+      </void> 
+      <void property="title"> 
+       <string>Bryce Canyon</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object id="PhotoWrapper14" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>135295570</string> 
+      </void> 
+      <void property="secret"> 
+       <string>2583e13a4b</string> 
+      </void> 
+      <void property="server"> 
+       <string>44</string> 
+      </void> 
+      <void property="title"> 
+       <string>Windplants</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object id="PhotoWrapper15" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>102425720</string> 
+      </void> 
+      <void property="secret"> 
+       <string>868fee7b06</string> 
+      </void> 
+      <void property="server"> 
+       <string>26</string> 
+      </void> 
+      <void property="title"> 
+       <string>Artist Palette</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>102417561</string> 
+      </void> 
+      <void property="secret"> 
+       <string>f0766f2491</string> 
+      </void> 
+      <void property="server"> 
+       <string>43</string> 
+      </void> 
+      <void property="title"> 
+       <string>Sand Dune</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object id="PhotoWrapper16" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>98821382</string> 
+      </void> 
+      <void property="secret"> 
+       <string>c28314abdc</string> 
+      </void> 
+      <void property="server"> 
+       <string>24</string> 
+      </void> 
+      <void property="title"> 
+       <string>Canada From Above</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object id="PhotoWrapper17" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>61142332</string> 
+      </void> 
+      <void property="secret"> 
+       <string>5654cc9e5b</string> 
+      </void> 
+      <void property="server"> 
+       <string>30</string> 
+      </void> 
+      <void property="title"> 
+       <string>Road to Bodie</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object id="PhotoWrapper18" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>61142280</string> 
+      </void> 
+      <void property="secret"> 
+       <string>37bf80fc33</string> 
+      </void> 
+      <void property="server"> 
+       <string>25</string> 
+      </void> 
+      <void property="title"> 
+       <string>Mono Lake</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object id="PhotoWrapper19" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>61142379</string> 
+      </void> 
+      <void property="secret"> 
+       <string>2bd6a495de</string> 
+      </void> 
+      <void property="server"> 
+       <string>29</string> 
+      </void> 
+      <void property="title"> 
+       <string>Bodie</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object id="PhotoWrapper20" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>61142163</string> 
+      </void> 
+      <void property="secret"> 
+       <string>2a0230966a</string> 
+      </void> 
+      <void property="server"> 
+       <string>28</string> 
+      </void> 
+      <void property="title"> 
+       <string>Bodie</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object id="PhotoWrapper21" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>61136699</string> 
+      </void> 
+      <void property="secret"> 
+       <string>faec76d80e</string> 
+      </void> 
+      <void property="server"> 
+       <string>27</string> 
+      </void> 
+      <void property="title"> 
+       <string>Freeway 101</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object id="PhotoWrapper22" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>61136519</string> 
+      </void> 
+      <void property="secret"> 
+       <string>9980c58604</string> 
+      </void> 
+      <void property="server"> 
+       <string>32</string> 
+      </void> 
+      <void property="title"> 
+       <string>Red Crab</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object id="PhotoWrapper23" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>61136502</string> 
+      </void> 
+      <void property="secret"> 
+       <string>f6c55cd5f0</string> 
+      </void> 
+      <void property="server"> 
+       <string>27</string> 
+      </void> 
+      <void property="title"> 
+       <string>Tropical Fish</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object id="PhotoWrapper24" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>102917206</string> 
+      </void> 
+      <void property="secret"> 
+       <string>256c1ee8d9</string> 
+      </void> 
+      <void property="server"> 
+       <string>34</string> 
+      </void> 
+      <void property="title"> 
+       <string>Jelly on Black</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object id="PhotoWrapper25" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>61136463</string> 
+      </void> 
+      <void property="secret"> 
+       <string>152f527ab9</string> 
+      </void> 
+      <void property="server"> 
+       <string>24</string> 
+      </void> 
+      <void property="title"> 
+       <string>Blue Fish</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object id="PhotoWrapper26" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>61136374</string> 
+      </void> 
+      <void property="secret"> 
+       <string>eb9816c167</string> 
+      </void> 
+      <void property="server"> 
+       <string>27</string> 
+      </void> 
+      <void property="title"> 
+       <string>Black and White</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object id="PhotoWrapper27" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>54550921</string> 
+      </void> 
+      <void property="secret"> 
+       <string>c8851833cb</string> 
+      </void> 
+      <void property="server"> 
+       <string>26</string> 
+      </void> 
+      <void property="title"> 
+       <string>Devil&apos;s Golf Course</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object id="PhotoWrapper28" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>54550882</string> 
+      </void> 
+      <void property="secret"> 
+       <string>b7c314a1c3</string> 
+      </void> 
+      <void property="server"> 
+       <string>24</string> 
+      </void> 
+      <void property="title"> 
+       <string>Death Valley at Sunset</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object id="PhotoWrapper29" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>54550866</string> 
+      </void> 
+      <void property="secret"> 
+       <string>b0bcf5b72f</string> 
+      </void> 
+      <void property="server"> 
+       <string>28</string> 
+      </void> 
+      <void property="title"> 
+       <string>Death Valley at Sunset</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object id="PhotoWrapper30" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>54550857</string> 
+      </void> 
+      <void property="secret"> 
+       <string>0cb82063e7</string> 
+      </void> 
+      <void property="server"> 
+       <string>26</string> 
+      </void> 
+      <void property="title"> 
+       <string>Death Valley at Sunset</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object id="PhotoWrapper31" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>54550287</string> 
+      </void> 
+      <void property="secret"> 
+       <string>5b4fd679ce</string> 
+      </void> 
+      <void property="server"> 
+       <string>24</string> 
+      </void> 
+      <void property="title"> 
+       <string>Route 17</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object id="PhotoWrapper32" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>54550264</string> 
+      </void> 
+      <void property="secret"> 
+       <string>9613e1143d</string> 
+      </void> 
+      <void property="server"> 
+       <string>28</string> 
+      </void> 
+      <void property="title"> 
+       <string>Carmel Beach</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object id="PhotoWrapper33" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>54550234</string> 
+      </void> 
+      <void property="secret"> 
+       <string>1ac40782f0</string> 
+      </void> 
+      <void property="server"> 
+       <string>29</string> 
+      </void> 
+      <void property="title"> 
+       <string>Sunset at Carmel Beach</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object id="PhotoWrapper34" class="com.sun.javaone.aerith.ui.PhotoWrapper"> 
+     <object class="com.aetrion.flickr.photos.Photo"> 
+      <void property="id"> 
+       <string>54550228</string> 
+      </void> 
+      <void property="secret"> 
+       <string>7b39738f06</string> 
+      </void> 
+      <void property="server"> 
+       <string>29</string> 
+      </void> 
+      <void property="title"> 
+       <string>Sunset at Carmel Beach</string> 
+      </void> 
+     </object> 
+    </object> 
+   </void> 
+  </void> 
+  <void property="photos"> 
+   <object idref="ArrayList0"/> 
+  </void> 
+  <void property="summary"> 
+   <string>A road trip in the south west.</string> 
+  </void> 
+  <void property="title"> 
+   <string>Road Trip 2006</string> 
+  </void> 
+  <void id="ArrayList1" property="waypoints"> 
+   <void method="add"> 
+    <object class="com.sun.javaone.aerith.model.Trip$Waypoint"> 
+     <void property="name"> 
+      <string>San Francisco</string> 
+     </void> 
+     <void id="ArrayList2" property="photos"> 
+      <void method="add"> 
+       <object idref="PhotoWrapper9"/> 
+      </void> 
+      <void method="add"> 
+       <object idref="PhotoWrapper10"/> 
+      </void> 
+      <void method="add"> 
+       <object idref="PhotoWrapper16"/> 
+      </void> 
+     </void> 
+     <void property="photos"> 
+      <object idref="ArrayList2"/> 
+     </void> 
+     <void property="position"> 
+      <object class="org.jdesktop.swingx.mapviewer.GeoPosition"> 
+       <double>37.7742</double> 
+       <double>-122.417068</double> 
+      </object> 
+     </void> 
+     <void property="summary"> 
+      <string>Here we ate pizza and ate chocolate ice cream</string> 
+     </void> 
+     <void property="title"> 
+      <string>Hanging in the City</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.sun.javaone.aerith.model.Trip$Waypoint"> 
+     <void property="name"> 
+      <string>Grand Canyon</string> 
+     </void> 
+     <void id="ArrayList3" property="photos"> 
+      <void method="add"> 
+       <object idref="PhotoWrapper7"/> 
+      </void> 
+      <void method="add"> 
+       <object idref="PhotoWrapper8"/> 
+      </void> 
+     </void> 
+     <void property="photos"> 
+      <object idref="ArrayList3"/> 
+     </void> 
+     <void property="position"> 
+      <object class="org.jdesktop.swingx.mapviewer.GeoPosition"> 
+       <double>36.05442</double> 
+       <double>-112.136726</double> 
+      </object> 
+     </void> 
+     <void property="summary"> 
+      <string>Can you believe this view? Wow!</string> 
+     </void> 
+     <void property="title"> 
+      <string>Ye Olde Grand Canyon</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.sun.javaone.aerith.model.Trip$Waypoint"> 
+     <void property="name"> 
+      <string>Monteray Aquarium</string> 
+     </void> 
+     <void id="ArrayList4" property="photos"> 
+      <void method="add"> 
+       <object idref="PhotoWrapper22"/> 
+      </void> 
+      <void method="add"> 
+       <object idref="PhotoWrapper23"/> 
+      </void> 
+      <void method="add"> 
+       <object idref="PhotoWrapper24"/> 
+      </void> 
+      <void method="add"> 
+       <object idref="PhotoWrapper25"/> 
+      </void> 
+      <void method="add"> 
+       <object idref="PhotoWrapper26"/> 
+      </void> 
+     </void> 
+     <void property="photos"> 
+      <object idref="ArrayList4"/> 
+     </void> 
+     <void property="position"> 
+      <object class="org.jdesktop.swingx.mapviewer.GeoPosition"> 
+       <double>36.628202810300756</double> 
+       <double>-121.91871643066406</double> 
+      </object> 
+     </void> 
+     <void property="summary"> 
+      <string>Some really cool fish here, as well as other aquatic life. Love the jellies d00d</string> 
+     </void> 
+     <void property="title"> 
+      <string>Look and the Fishes Mom!</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.sun.javaone.aerith.model.Trip$Waypoint"> 
+     <void property="name"> 
+      <string>Death Valley USA</string> 
+     </void> 
+     <void id="ArrayList5" property="photos"> 
+      <void method="add"> 
+       <object idref="PhotoWrapper11"/> 
+      </void> 
+      <void method="add"> 
+       <object idref="PhotoWrapper15"/> 
+      </void> 
+      <void method="add"> 
+       <object idref="PhotoWrapper27"/> 
+      </void> 
+      <void method="add"> 
+       <object idref="PhotoWrapper28"/> 
+      </void> 
+      <void method="add"> 
+       <object idref="PhotoWrapper29"/> 
+      </void> 
+      <void method="add"> 
+       <object idref="PhotoWrapper30"/> 
+      </void> 
+     </void> 
+     <void property="photos"> 
+      <object idref="ArrayList5"/> 
+     </void> 
+     <void property="position"> 
+      <object class="org.jdesktop.swingx.mapviewer.GeoPosition"> 
+       <double>36.55377524336089</double> 
+       <double>-116.9000244140625</double> 
+      </object> 
+     </void> 
+     <void property="summary"> 
+      <string>But I got some really great shots. The Undead are coming up through the sand!!!</string> 
+     </void> 
+     <void property="title"> 
+      <string>Everything&apos;s Dead!</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.sun.javaone.aerith.model.Trip$Waypoint"> 
+     <void property="name"> 
+      <string>Livermore</string> 
+     </void> 
+     <void id="ArrayList6" property="photos"> 
+      <void method="add"> 
+       <object idref="PhotoWrapper1"/> 
+      </void> 
+      <void method="add"> 
+       <object idref="PhotoWrapper3"/> 
+      </void> 
+      <void method="add"> 
+       <object idref="PhotoWrapper14"/> 
+      </void> 
+     </void> 
+     <void property="photos"> 
+      <object idref="ArrayList6"/> 
+     </void> 
+     <void property="position"> 
+      <object class="org.jdesktop.swingx.mapviewer.GeoPosition"> 
+       <double>37.69903420794415</double> 
+       <double>-121.76422119140625</double> 
+      </object> 
+     </void> 
+     <void property="summary"> 
+      <string>Home of the Jokester</string> 
+     </void> 
+     <void property="title"> 
+      <string>Chet&apos;s Den</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.sun.javaone.aerith.model.Trip$Waypoint"> 
+     <void property="name"> 
+      <string>Sequoia</string> 
+     </void> 
+     <void id="ArrayList7" property="photos"> 
+      <void method="add"> 
+       <object idref="PhotoWrapper2"/> 
+      </void> 
+     </void> 
+     <void property="photos"> 
+      <object idref="ArrayList7"/> 
+     </void> 
+     <void property="position"> 
+      <object class="org.jdesktop.swingx.mapviewer.GeoPosition"> 
+       <double>36.6045040426166</double> 
+       <double>-118.740234375</double> 
+      </object> 
+     </void> 
+     <void property="summary"> 
+      <string>Home of the biggest tree in the world. Awesome d00d</string> 
+     </void> 
+     <void property="title"> 
+      <string>Native California</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.sun.javaone.aerith.model.Trip$Waypoint"> 
+     <void property="name"> 
+      <string>17 Mile Drive</string> 
+     </void> 
+     <void id="ArrayList8" property="photos"> 
+      <void method="add"> 
+       <object idref="PhotoWrapper4"/> 
+      </void> 
+      <void method="add"> 
+       <object idref="PhotoWrapper31"/> 
+      </void> 
+      <void method="add"> 
+       <object idref="PhotoWrapper32"/> 
+      </void> 
+      <void method="add"> 
+       <object idref="PhotoWrapper33"/> 
+      </void> 
+      <void method="add"> 
+       <object idref="PhotoWrapper34"/> 
+      </void> 
+     </void> 
+     <void property="photos"> 
+      <object idref="ArrayList8"/> 
+     </void> 
+     <void property="position"> 
+      <object class="org.jdesktop.swingx.mapviewer.GeoPosition"> 
+       <double>36.583141355878084</double> 
+       <double>-121.97433471679688</double> 
+      </object> 
+     </void> 
+     <void property="title"> 
+      <string>Scenic Ocean Views</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.sun.javaone.aerith.model.Trip$Waypoint"> 
+     <void property="name"> 
+      <string>California Sunset</string> 
+     </void> 
+     <void id="ArrayList9" property="photos"> 
+      <void method="add"> 
+       <object idref="PhotoWrapper6"/> 
+      </void> 
+      <void method="add"> 
+       <object idref="PhotoWrapper21"/> 
+      </void> 
+     </void> 
+     <void property="photos"> 
+      <object idref="ArrayList9"/> 
+     </void> 
+     <void property="position"> 
+      <object class="org.jdesktop.swingx.mapviewer.GeoPosition"> 
+       <double>37.32512356127904</double> 
+       <double>-122.40314483642578</double> 
+      </object> 
+     </void> 
+     <void property="title"> 
+      <string>Most Beautiful Sunset Ever</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.sun.javaone.aerith.model.Trip$Waypoint"> 
+     <void property="name"> 
+      <string>Death Valley Intro</string> 
+     </void> 
+     <void id="ArrayList10" property="photos"> 
+      <void method="add"> 
+       <object idref="PhotoWrapper5"/> 
+      </void> 
+      <void method="add"> 
+       <object idref="PhotoWrapper0"/> 
+      </void> 
+     </void> 
+     <void property="photos"> 
+      <object idref="ArrayList10"/> 
+     </void> 
+     <void property="position"> 
+      <object class="org.jdesktop.swingx.mapviewer.GeoPosition"> 
+       <double>36.363798554158635</double> 
+       <double>-117.59765625</double> 
+      </object> 
+     </void> 
+     <void property="summary"> 
+      <string>Shot of the mountains right at the entrance to Death Valley</string> 
+     </void> 
+     <void property="title"> 
+      <string>Last Mountains Before The Desert</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.sun.javaone.aerith.model.Trip$Waypoint"> 
+     <void property="name"> 
+      <string>Utah Desert</string> 
+     </void> 
+     <void id="ArrayList11" property="photos"> 
+      <void method="add"> 
+       <object idref="PhotoWrapper13"/> 
+      </void> 
+      <void method="add"> 
+       <object idref="PhotoWrapper12"/> 
+      </void> 
+      <void method="add"> 
+       <object idref="PhotoWrapper17"/> 
+      </void> 
+      <void method="add"> 
+       <object idref="PhotoWrapper18"/> 
+      </void> 
+      <void method="add"> 
+       <object idref="PhotoWrapper19"/> 
+      </void> 
+      <void method="add"> 
+       <object idref="PhotoWrapper20"/> 
+      </void> 
+     </void> 
+     <void property="photos"> 
+      <object idref="ArrayList11"/> 
+     </void> 
+     <void property="position"> 
+      <object class="org.jdesktop.swingx.mapviewer.GeoPosition"> 
+       <double>37.107765071185135</double> 
+       <double>-112.5439453125</double> 
+      </object> 
+     </void> 
+     <void property="summary"> 
+      <string>The west has terrific scenes with little to no human presence. </string> 
+     </void> 
+     <void property="title"> 
+      <string>Great American Desert</string> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="com.sun.javaone.aerith.model.Trip$Waypoint"> 
+     <void property="name"> 
+      <string>Home Again!</string> 
+     </void> 
+     <void property="position"> 
+      <object class="org.jdesktop.swingx.mapviewer.GeoPosition"> 
+       <double>37.39975547955227</double> 
+       <double>-121.94669723510742</double> 
+      </object> 
+     </void> 
+     <void property="title"> 
+      <string>I Love My Refrigerator!</string> 
+     </void> 
+    </object> 
+   </void> 
+  </void> 
+  <void property="waypoints"> 
+   <object idref="ArrayList1"/> 
+  </void> 
+ </object> 
+</java> 
