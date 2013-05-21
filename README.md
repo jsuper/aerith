@@ -1,7 +1,6 @@
-
 # About this project  
 
-This project the the corrected revision about https://java.net/projects/aerith. Every copyrights blong to the authors of that project.   
+This project is the corrected revision about [aerith](https://java.net/projects/aerith). Every copyrights blong to the authors of that project.   
 
 I have fixed all compilation errors with [jogl 2.x](https://jogamp.org/jogl/www/)
 
