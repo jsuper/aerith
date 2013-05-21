@@ -17,7 +17,7 @@ See http://subversion.tigris.org/ for more information about Subversion.
 
 # About this project  
 
-This project the the corrected revision about https://java.net/projects/aerith. Every copyrights blong to the authors of this project.   
+This project the the corrected revision about https://java.net/projects/aerith. Every copyrights blong to the authors of that project.   
 
 I have fixed all compilation errors with [jogl 2.x](https://jogamp.org/jogl/www/)
 
