@@ -12,7 +12,7 @@ This library is the built-in library of NetBean ide. if you don't install it. Yo
 
 *jogl*  
 
-This library is created by me. it contains the following files  
+This library is created by myself. it contains the following files  
 
 *Windows*
 >  	     			       	     	
